@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.component1_heading_div_class{
+  width:70%;
+  min-height:3vw;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin:auto;
+  background-color: slategray;
+  border:1px solid black;
+
+}
+.component1_incomplete_task_div{
+  width:70%;
+  margin: auto;
+  border:1px solid black;
+}
+.incomplete_p{
+  width:100%;
+  display: flex;
+  margin:auto;
+  justify-content: space-evenly;
+  border:1px solid black;
+
+}
+table{
+  width:100%;
+}
+button{
+  cursor:pointer;
+}
+.table2{
+  background-color: steelblue;
+}
